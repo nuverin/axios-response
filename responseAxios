@@ -1,0 +1,1 @@
+let responseOK = response && response.status === 200 && response.statusText === "OK"
